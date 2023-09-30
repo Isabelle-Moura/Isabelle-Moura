@@ -1,5 +1,5 @@
-# **Hello There, Mate!** 👋😎💖
-## _My name is Isa Moura and i'm a Web Developer..._
+# Hi There, Mate...👋
+# My name is Isa Moura and i'm a Web Developer!😎💖
 
 ##
 
