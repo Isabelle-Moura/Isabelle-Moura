@@ -1,5 +1,7 @@
-# Hi There, Mate...👋
-# My name is Isa Moura and i'm a Web Developer!😎💖
+
+<div>
+  <img width="full-width" src="https://cdn.discordapp.com/attachments/982051013454360579/1162026549386682500/fc8dddea-13fe-4c45-b499-8465600932dd.png?ex=653a708e&is=6527fb8e&hm=d7a986a157eb051a714cd545c3b6e5a1a2d74edbd7da38bbe9c633609ca7c1ed&"/>
+</div>
 
 ##
 
@@ -39,5 +41,6 @@
 - 🇰🇷 🇫🇷 I'm fluent in English, but i also know a little bit of French and Korean.
 - 💬 My favorite band is Queen (And my favorite Queen's song is Hammer to Fall).
 - 🤢 I don't know why, but i can't stand chocolate milk.
+- ☕ I LOVE COFFEE!!!!
 
 ##
