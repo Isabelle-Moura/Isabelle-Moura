@@ -35,7 +35,7 @@
 ## **Here's Some Fun Facts About Me:**
 - 🖍 One of my secret talents is drawing.
 - 🐕🐈 I'm a Cat and Dog Lover.
-- 💕 My biggest priorities are God, my family and myself.
+- 💕 My biggest priorities are God and my family.
 - ✨ I love book, music, movies, TV shows and k-dramas (not necessarily in this order).
 - 🇰🇷 🇫🇷 I'm fluent in English, but i also know a little bit of French and Korean.
 - 💬 My favorite band is Queen (And my favorite Queen's song is Hammer to Fall).
