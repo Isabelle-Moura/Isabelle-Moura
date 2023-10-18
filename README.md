@@ -32,7 +32,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
-## **Here's Some Fun Facts About Me:**
+## **👉 Here's Some Fun Facts About Me:**
 - 🖍 One of my secret talents is drawing.
 - 🐕🐈 I'm a Cat and Dog Lover.
 - 💕 My biggest priorities are God and my family.
