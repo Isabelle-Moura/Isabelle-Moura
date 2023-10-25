@@ -38,7 +38,8 @@
 - 💕 My biggest priorities are God and my family.
 - ✨ I love book, music, movies, TV shows and k-dramas (not necessarily in this order).
 - 🇰🇷 🇫🇷 I'm fluent in English, but i also know a little bit of French and Korean.
-- 💬 My favorite band is Queen (And my favorite Queen's song is Hammer to Fall).
+- 🥁 My favorite band is Queen (And one of my favorites Queen's songs are: Hammer to Fall, You're My Best Friend and, of course, Bohemian Rhapsody).
+- 💬 One of my favorite quotes is: "Be yourself; everyone else is already taken. - Oscar Wilde".
 - 🤢 I don't know why, but i can't stand chocolate milk.
 - ☕ I LOVE COFFEE!!!!
 
