@@ -5,9 +5,9 @@
 ##
 
 <div style=display: flex>
+  <img height="180em" src="https://cdn.discordapp.com/attachments/989712725330522112/1157791962330570884/SPOILER_Design_sem_nome.gif?ex=6519e54a&is=651893ca&hm=6f510cd2f2d0605e6d2cef904d937177ed7fb334d74a7b9d265bd176669fd8d9&" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=true&bg_color=000000&text_color=0e9658&title_color=5fdd8b&icon_color=5fdd8b"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&bg_color=000000&text_color=0e9658&title_color=5fdd8b&icon_color=5fdd8b"/>  
-  <img height="180em" src="https://cdn.discordapp.com/attachments/989712725330522112/1157791962330570884/SPOILER_Design_sem_nome.gif?ex=6519e54a&is=651893ca&hm=6f510cd2f2d0605e6d2cef904d937177ed7fb334d74a7b9d265bd176669fd8d9&" />
 </div>
 
 ## **👉 What I've Learned So Far:**
