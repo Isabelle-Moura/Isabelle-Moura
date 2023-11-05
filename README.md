@@ -5,8 +5,8 @@
 ##
 
 <div style=display: flex>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=true&bg_color=000000&text_color=0e9658&title_color=5fdd8b&icon_color=5fdd8b"/>  
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&bg_color=000000&text_color=0e9658&title_color=5fdd8b&icon_color=5fdd8b"/>  
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=false&bg_color=000000&text_color=7ed957&title_color=38b6ff"/>  
+  <img height="175.6em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&bg_color=000000&text_color=7ed957&title_color=38b6ff"/>  
   <img height="175em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=655a8b4d&is=6548164d&hm=4c90b3ad6c98915d70575e2717e1fe6aef704e740162a05cc0d70bf4a4ed8bd5&"/>  
 </div>
 
