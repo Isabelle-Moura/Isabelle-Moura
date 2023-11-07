@@ -33,6 +33,7 @@
 </div>
 
 ## **👉 Here's Some Fun Facts About Me:**
+- 🇧🇷 I'm from Brazil! (I was born and raised in Rio de Janeiro, RJ)
 - 🖍 One of my secret talents is drawing. 
 - 🐕🐈 I love cats and dogs!
 - 💕 My biggest priorities are God and my family.
