@@ -40,6 +40,7 @@
 - ✨ I love book, music, movies, TV shows and k-dramas (not necessarily in this order).
 - 🇰🇷 🇫🇷 I'm fluent in English, but i also know a little bit of French and Korean.
 - 🥁 My favorite band is Queen (And one of my favorites Queen's songs are: Hammer to Fall, You're My Best Friend and, of course, Bohemian Rhapsody).
+- 🛐 One of my favorite Bible verses is: Philippians 4:13 – I can do all things through Him who strengthens me.
 - 💬 One of my favorite quotes is: "Be yourself; everyone else is already taken. - Oscar Wilde".
 - 🤢 I don't know why, but i can't stand chocolate milk🤮
 - ☕ I LOVE COFFEE!!!! I just... can't survive without it! (Hint: Drink your coffee with some cookies. It's THE best thing ever😜)
