@@ -1,5 +1,5 @@
 <div>
-  <img width="fit-content" src="https://cdn.discordapp.com/attachments/989712725330522112/1178865478509269062/Hi_There__Mate_-removebg-preview.png?ex=6577b308&is=65653e08&hm=b2dc73767a059661a32cbb634e79cbb048a9f69b39efd4c33543fb9582ed51ad&" style="width:100%; height:auto;"/> 
+  <img width="full-width" src="https://cdn.discordapp.com/attachments/989712725330522112/1178869205085470780/Design_sem_nome-removebg-preview.png?ex=6577b680&is=65654180&hm=3abaec94aa3171b86bfd2956696a4425e4fe812af9c25985c387cd3bcaa5c7c7&"/> 
 </div>
 
 ##
