@@ -5,9 +5,9 @@
 ##
 
 <div style=display: flex>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=true&icon_color=38b6ff&bg_color=000000&text_color=00bd62&title_color=673ebc"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&bg_color=000000&text_color=00bd62&title_color=673ebc&"/>  
-  <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=655a8b4d&is=6548164d&hm=4c90b3ad6c98915d70575e2717e1fe6aef704e740162a05cc0d70bf4a4ed8bd5&"/>  
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=true&icon_color=38b6ff&bg_color=000000&text_color=00bd62&title_color=673ebc"/>  
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&bg_color=000000&text_color=00bd62&title_color=673ebc&"/>  
+  <img height="175em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=655a8b4d&is=6548164d&hm=4c90b3ad6c98915d70575e2717e1fe6aef704e740162a05cc0d70bf4a4ed8bd5&"/>  
 </div>
 
 ## **👉 What I'm Learning Right Now:**
