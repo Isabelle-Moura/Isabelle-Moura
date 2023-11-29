@@ -5,9 +5,9 @@
 ##
 
 <div style=display: flex>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=false&&theme=aura"/>  
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
-  <img height="175em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=655a8b4d&is=6548164d&hm=4c90b3ad6c98915d70575e2717e1fe6aef704e740162a05cc0d70bf4a4ed8bd5&"/>  
+  <img height="175.5em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=false&&theme=aura"/>  
+  <img height="175.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
+  <img height="175.5em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=655a8b4d&is=6548164d&hm=4c90b3ad6c98915d70575e2717e1fe6aef704e740162a05cc0d70bf4a4ed8bd5&"/>  
 </div>
 
 ## **👉 What I'm Learning Right Now:**
