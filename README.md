@@ -1,4 +1,6 @@
-# Hello There! 👋 I'm Isa and it's a pleasure to have you here! 🤗😁 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1500&color=00BF63&center=true&vCenter=true&random=false&width=475&lines=Hello+there!%F0%9F%91%8B+Welcome%E2%9C%A8%F0%9F%A4%97" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img width="fit-content" src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=6577bc7e&is=6565477e&hm=b8145180758381c998ad38ff2dc3fb5943820bbdc46aae51700f8026d74be813&"/> 
