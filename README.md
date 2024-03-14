@@ -16,9 +16,11 @@
 
 ## **👉 What I'm Learning Right Now:**
 <div>
+  <img src="https://img.shields.io/badge/Nest_js-CA4261?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-6841e9?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-DB7533?style=for-the-badge&logo=mysql&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-376d9c?style=for-the-badge&logo=python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Flask-41ACC0?style=for-the-badge&logo=flask&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/SQL-DB7533?style=for-the-badge&logo=mysql&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
