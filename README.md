@@ -11,7 +11,7 @@
 <div style=display: flex>
   <img height="176em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=false&&theme=aura"/>  
   <img height="176em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
-  <img height="176em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=655a8b4d&is=6548164d&hm=4c90b3ad6c98915d70575e2717e1fe6aef704e740162a05cc0d70bf4a4ed8bd5&"/>  
+  <img height="176em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=66131d4d&is=6600a84d&hm=2196509af2c00004d53c11f5da3154e11399173d67de33e68d26a6125e51d384&"/>  
 </div>
 
 ## **👉 What I'm Learning Right Now:**
