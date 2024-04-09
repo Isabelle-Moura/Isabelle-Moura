@@ -2,16 +2,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1500&color=00BF63&center=true&vCenter=true&random=false&width=475&lines=Hello+there!%F0%9F%91%8B+Welcome%E2%9C%A8%F0%9F%A4%97" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img width="fit-content" src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=660b647e&is=65f8ef7e&hm=e2696f55b882a2747f5161e6e371918f554ebec9010ae6c59416c7347395674f&"/> 
-</div>
-
-##
-
 <div style=display: flex>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=false&&theme=aura"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
   <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=66131d4d&is=6600a84d&hm=2196509af2c00004d53c11f5da3154e11399173d67de33e68d26a6125e51d384&"/>  
+</div>
+
+<div align="center">
+  <img width="fit-content" src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=662713fe&is=66149efe&hm=44405a2a21370eef64eed5561d7fed238446c7d47051174869855c243865833d&"/> 
 </div>
 
 ## **👉 What I'm Learning Right Now:**
