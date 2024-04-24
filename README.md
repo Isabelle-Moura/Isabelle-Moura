@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="fit-content" src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=662713fe&is=66149efe&hm=44405a2a21370eef64eed5561d7fed238446c7d47051174869855c243865833d&"/> 
+  <img width="fit-content" src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=6629b6fe&is=6628657e&hm=595d7934ea5f8d3181455bf64e9a2109492f9f9e25ac9cb4534a53c62a7979cd&"/> 
 </div>
 
 <div style=display: flex>
@@ -63,12 +63,12 @@
 - 🖍 One of my secret talents is drawing. 
 - 🐕🐈 I love cats and dogs!
 - 💕 My biggest priorities are God and my family.
-- ✨ I love book, music, movies, TV shows and k-dramas (not necessarily in this order).
+- ✨ I love books, musics, movies, TV shows and k-dramas (not necessarily in this order).
 - 🇰🇷 🇫🇷 I'm fluent in English, but i also know a little bit of French and Korean.
 - 🥁 My favorite band is Queen (And one of my favorites Queen's songs are: Hammer to Fall, Love of My Life, You're My Best Friend and, of course, Bohemian Rhapsody).
-- 🛐 One of my favorite Bible verses is: Philippians 4:13 – I can do all things through Him who strengthens me.
-- 💬 Some of my favorite quotes are: "Expect nothing from others, some from yourself and everything from God." and "Be yourself; everyone else is already taken. - Oscar Wilde".
-- 🤢 I don't know why, but i can't stand chocolate milk🤮
+- 🛐 One of my favorite Bible verses is: "For I consider that the sufferings of this present time are not worth comparing with the glory that is going to be revealed to us." - Romans 8:18
+- 💬 Some of my favorite quotes are: "Expect nothing from others, some from yourself and everything from God." and "Be yourself; everyone else is already taken.".
+- 🤢 Don't ask me why (because i don't have a clue), but i can't stand chocolate milk🤮
 - ☕ I LOVE COFFEE!!!! I just... can't survive without it! (Hint: Drink your coffee with some cookies. It's THE best thing ever😜)
 
 ##
