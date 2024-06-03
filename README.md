@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="fit-content" src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=6629b6fe&is=6628657e&hm=595d7934ea5f8d3181455bf64e9a2109492f9f9e25ac9cb4534a53c62a7979cd&"/> 
+  <img width="fit-content" src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=665e72fe&is=665d217e&hm=40e1e536c0e6e11bfca3dc212188024b48a09aa2862b65ff779bf4600aeb886c&"/> 
 </div>
 
 <div style=display: flex>
@@ -15,10 +15,6 @@
 
 ## **👉 What I'm Learning Right Now:**
 <div>
-  <img src="https://img.shields.io/badge/Nest_js-CA4261?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-6841e9?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeORM-ff0000?style=for-the-badge&logo=orm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-DB7533?style=for-the-badge&logo=mysql&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-376d9c?style=for-the-badge&logo=python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Flask-41ACC0?style=for-the-badge&logo=flask&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -27,6 +23,10 @@
 
 ## **👉 What I've Learned So Far:**
 <div>
+   <img src="https://img.shields.io/badge/Nest_js-CA4261?style=for-the-badge&logo=nestjs&logoColor=white"/>
+   <img src="https://img.shields.io/badge/PostgreSQL-6841e9?style=for-the-badge&logo=postgresql&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TypeORM-ff0000?style=for-the-badge&logo=orm&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SQL-DB7533?style=for-the-badge&logo=mysql&logoColor=white"/>  
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
@@ -60,14 +60,15 @@
 
 ## **👉 Here's Some Fun Facts About Me:**
 - 🇧🇷 I'm brazilian! (I was born and raised in Rio de Janeiro, RJ)
-- 🖍 One of my secret talents is drawing. 
-- 🐕🐈 I love cats and dogs!
 - 💕 My biggest priorities are God and my family.
-- ✨ I love books, musics, movies, TV shows and k-dramas (not necessarily in this order).
+- 🖍 One of my secret talents is drawing and rotate pens.
+- 🐕🐈 I love cats and dogs! (and Capybaras, but you guys are not ready for this conversation)
+- ✨ Basically, I loooooove to read books and listen to music (but good music, not nowadays). 
 - 🇰🇷 🇫🇷 I'm fluent in English, but i also know a little bit of French and Korean.
-- 🥁 My favorite band is Queen (And one of my favorites Queen's songs are: Hammer to Fall, Love of My Life, You're My Best Friend and, of course, Bohemian Rhapsody).
+- 👩‍🍳 Not that anybody asked, but I also can cook. Am i a masterchef? Nope, but i try.
+- 🥁 My favorite band is Queen (And one of my favorites songs are: Hammer to Fall, Love of My Life, You're My Best Friend and, of course, Bohemian Rhapsody).
 - 🛐 One of my favorite Bible verses is: "For I consider that the sufferings of this present time are not worth comparing with the glory that is going to be revealed to us." - Romans 8:18
-- 💬 Some of my favorite quotes are: "Expect nothing from others, some from yourself and everything from God." and "Be yourself; everyone else is already taken.".
+- 💬 Some of my favorite life quotes are: "Expect nothing from others, some from yourself and everything from God." and "Be yourself; everyone else is already taken.".
 - 🤢 Don't ask me why (because i don't have a clue), but i can't stand chocolate milk🤮
 - ☕ I LOVE COFFEE!!!! I just... can't survive without it! (Hint: Drink your coffee with some cookies. It's THE best thing ever😜)
 
