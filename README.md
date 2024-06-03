@@ -9,7 +9,7 @@
 <div style=display: flex>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=false&&theme=aura"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
-  <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=66131d4d&is=6600a84d&hm=2196509af2c00004d53c11f5da3154e11399173d67de33e68d26a6125e51d384&"/>  
+  <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1247045604971118694/f1695e27a28f0ce41ad5d9fed1580edc.png?ex=665e9939&is=665d47b9&hm=70ec889ffc87bd13b11e787b673ed20a8d199021407e4c766a1e8f652e16de1e&"/>  
 </div>
 
 
