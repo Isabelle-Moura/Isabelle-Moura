@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img width="fit-content" src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=665e72fe&is=665d217e&hm=40e1e536c0e6e11bfca3dc212188024b48a09aa2862b65ff779bf4600aeb886c&"/> 
+  <img width="fit-content" src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=66894bbe&is=6687fa3e&hm=73466774d5f0f0def71636ef2914c02e6db027c38bb6a79dcba45433764f9082&"/> 
 </div>
 
 <div style=display: flex>
-  <img height="184em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=false&&theme=aura"/>  
-  <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
-  <img height="184em" src="https://cdn.discordapp.com/attachments/982051013454360579/1247045604971118694/f1695e27a28f0ce41ad5d9fed1580edc.png?ex=665e9939&is=665d47b9&hm=70ec889ffc87bd13b11e787b673ed20a8d199021407e4c766a1e8f652e16de1e&"/>  
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=false&&theme=aura"/>  
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
+  <img height="185em" src="https://cdn.discordapp.com/attachments/982051013454360579/1247046077388165171/54b5b572a814ce721e1b01adabed5c84.png?ex=66897269&is=668820e9&hm=16344f833ea2deca758f7e5f2e36e313c4483ff91f3352bb18b807fb9c5653d4&"/>  
 </div>
 
 
