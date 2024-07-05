@@ -14,6 +14,7 @@
   <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=6689c44d&is=668872cd&hm=52be90612d15527ef6e12ac0e2f5f8ea8070e3911acac67f6e2b20873d686cd0&"/>  
 </div>
 
+<hr/>
 
 ## **👉 What I'm Learning Right Now:**
 <div>
@@ -22,6 +23,8 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
+
+<hr/>
 
 ## **👉 What I've Learned So Far:**
 <div>
@@ -48,6 +51,8 @@
     <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
 </div>
 
+<hr/>
+
 ## **👉 Here's Where You Can Find Me:**
 
 <div>
@@ -57,6 +62,8 @@
   <a href="https://medium.com/@mourabisabelle" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
   <a href="https://www.instagram.com/isa_moura112/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
+
+<hr/>
 
 ## **👉 Here's Some Fun Facts About Me:**
 - 🇧🇷 I'm brazilian! (I was born and raised in Rio de Janeiro, RJ)
@@ -71,5 +78,3 @@
 - 💬 Some of my favorite life quotes are: "Expect nothing from others, some from yourself and everything from God." and "Be yourself; everyone else is already taken.".
 - 🤢 Don't ask me why (because i don't have a clue), but i can't stand chocolate milk🤮
 - ☕ I LOVE COFFEE!!!! I just... can't survive without it! (Hint: Drink your coffee with some cookies. It's THE best thing ever😜)
-
-##
