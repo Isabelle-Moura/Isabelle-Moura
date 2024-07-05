@@ -7,9 +7,9 @@
 </div>
 
 <div style=display: flex>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=false&&theme=aura"/>  
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
-  <img height="185em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=6689c44d&is=668872cd&hm=52be90612d15527ef6e12ac0e2f5f8ea8070e3911acac67f6e2b20873d686cd0&"/>  
+  <img height="184em" src="https://github-readme-stats.vercel.app/api?username=Isabelle-Moura&show_icons=false&&theme=aura"/>  
+  <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
+  <img height="184em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=6689c44d&is=668872cd&hm=52be90612d15527ef6e12ac0e2f5f8ea8070e3911acac67f6e2b20873d686cd0&"/>  
 </div>
 
 
@@ -23,10 +23,10 @@
 
 ## **👉 What I've Learned So Far:**
 <div>
-   <img src="https://img.shields.io/badge/Nest_js-CA4261?style=for-the-badge&logo=nestjs&logoColor=white"/>
-   <img src="https://img.shields.io/badge/PostgreSQL-6841e9?style=for-the-badge&logo=postgresql&logoColor=white"/>
-   <img src="https://img.shields.io/badge/TypeORM-ff0000?style=for-the-badge&logo=orm&logoColor=white"/>
-   <img src="https://img.shields.io/badge/SQL-DB7533?style=for-the-badge&logo=mysql&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Nest_js-CA4261?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-6841e9?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeORM-ff0000?style=for-the-badge&logo=orm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-DB7533?style=for-the-badge&logo=mysql&logoColor=white"/>  
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
@@ -51,11 +51,9 @@
 <div>
   <a href="mailto:mourabisabelle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://github.com/Isabelle-Moura?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a> 
-  <a href="https://www.linkedin.com/in/isa-moura-4a7432243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/isa-moura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://medium.com/@mourabisabelle" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/isa_moura112/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
 ## **👉 Here's Some Fun Facts About Me:**
