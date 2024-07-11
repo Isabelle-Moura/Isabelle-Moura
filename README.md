@@ -76,16 +76,14 @@
 
 <hr/>
 
-## **👉 Here's Some Fun Facts About Me:**
-- 🇧🇷 I'm Brazilian! (I was born and raised in Rio de Janeiro, RJ)
-- 💕 My biggest priorities are God and my family.
-- 🖍 One of my secret talents is drawing and rotating pens.
-- 🐕🐈 I love cats and dogs! (and Capybaras, but you guys are not ready for this conversation)
-- ✨ Basically, I love to read books and listen to music (but good music, not nowadays).
-- 🇰🇷 🇫🇷 I'm fluent in English, but I also know a little bit of French and Korean.
-- 👩‍🍳 Not that anybody asked, but I also can cook. Am I a masterchef? Nope, but I try.
-- 🥁 My favorite band is Queen (And some of my favorite songs are: Hammer to Fall, Love of My Life, You're My Best Friend and, of course, Bohemian Rhapsody).
-- 🛐 One of my favorite Bible verses is: "For I consider that the sufferings of this present time are not worth comparing with the glory that is going to be revealed to us." - Romans 8:18
-- 💬 Some of my favorite life quotes are: "Expect nothing from others, some from yourself and everything from God." and "Be yourself; everyone else is already taken."
-- 🤢 Don't ask me why (because I don't have a clue), but I can't stand chocolate milk🤮
-- ☕ I LOVE COFFEE!!!! I just... can't survive without it! (Hint: Drink your coffee with some cookies. It's THE best thing ever😜)
+## **👉 Here's Some 10 Fun Facts About Me:**
+- 🇧🇷 I'm Brazilian! Born and raised in Rio.
+- 💕 My biggest life priorities are God and my family.
+- 🖍 I have a secret talent for drawing and rotating pens.
+- ✨ I love to read books and listen to music.
+- 🇰🇷 🇫🇷 I'm fluent in English, and I know a bit of French and Korean.
+- 👩‍🍳 I cook sometimes. Not a masterchef, but I try.
+- 🥁 My favorite band is Queen. Favorites include: Hammer to Fall, Love of My Life, You're My Best Friend, and Bohemian Rhapsody.
+- 🛐 Favorite Bible verse: Romans 8:18.
+- 💬 Life quotes: "Expect nothing from others, some from yourself and everything from God." and "Be yourself; everyone else is already taken."
+- ☕ Coffee is my fuel! One of the best things of my day. (Hint: Have your coffee with some cookies. Just trust me: It's the best thing ever.)
