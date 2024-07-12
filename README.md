@@ -20,37 +20,37 @@
 
 ## **👉 What I'm Learning Right Now:**
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-376d9c?style=for-the-badge&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Flask-41ACC0?style=for-the-badge&logo=flask&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-376d9c?style=for-the-badge&logo=python&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/Flask-41ACC0?style=for-the-badge&logo=flask&logoColor=white"/> ▪
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> ▪
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> ▪
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
 <hr/>
 
 ## **👉 What I've Learned So Far:**
 <div align="center">
-  <img src="https://img.shields.io/badge/Nest_js-CA4261?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-6841e9?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeORM-ff0000?style=for-the-badge&logo=orm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-DB7533?style=for-the-badge&logo=mysql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-00593f?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-00303f?style=for-the-badge&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vitest-BABACA?style=for-the-badge&logo=vitest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
+  <img src="https://img.shields.io/badge/Nest_js-CA4261?style=for-the-badge&logo=nestjs&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/PostgreSQL-6841e9?style=for-the-badge&logo=postgresql&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/TypeORM-ff0000?style=for-the-badge&logo=orm&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/SQL-DB7533?style=for-the-badge&logo=mysql&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> ▪  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> ▪ 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> ▪ 
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> ▪  
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/MongoDB-00593f?style=for-the-badge&logo=mongodb&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/Mongoose-00303f?style=for-the-badge&logo=mongoose&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/Vitest-BABACA?style=for-the-badge&logo=vitest&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> ▪ 
+  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/> 
 </div>
 
 <hr/>
@@ -58,17 +58,17 @@
 ## **👉 Here's Where You Can Find Me:**
 <div align="center">
   <a href="mailto:mourabisabelle@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a> 
+    <img href="mailto:mourabisabelle@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+  </a> ▪
   <a href="https://github.com/Isabelle-Moura?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  
+  </a> ▪
   <a href="https://www.linkedin.com/in/isa-moura/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a> ▪ 
   <a href="https://medium.com/@mourabisabelle" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a> 
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> 
+  </a> ▪
   <a href="https://www.instagram.com/isa_moura112/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
