@@ -12,10 +12,10 @@
 
 <div style=display: flex>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isabelle-Moura&theme=aura"/>
+  <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=66979c0d&is=66964a8d&hm=13a16619dac96d374c1fac1bd1c99e2fd57b4f21d617de745e085e8f6f240e82&"/>  
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isabelle-Moura&theme=aura"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isabelle-Moura&theme=aura"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
-  <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=6689c44d&is=668872cd&hm=52be90612d15527ef6e12ac0e2f5f8ea8070e3911acac67f6e2b20873d686cd0&"/>  
 </div>
 
 <hr/>
