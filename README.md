@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=66894bbe&is=6687fa3e&hm=73466774d5f0f0def71636ef2914c02e6db027c38bb6a79dcba45433764f9082&" alt="Isabelle Moura"/> 
+  <img src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=66aa413e&is=66a8efbe&hm=acd8315ba357bbf2852063498bdbe185e401304e053904e0ee6f1482f63038d3&" alt="Isabelle Moura"/> 
 </div>
 
 <hr/>
