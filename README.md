@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=66aa413e&is=66a8efbe&hm=acd8315ba357bbf2852063498bdbe185e401304e053904e0ee6f1482f63038d3&" alt="Isabelle Moura"/> 
+  <img src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=66bd5efe&is=66bc0d7e&hm=aa9afbdaaa4a4af9ec8cb89c8583e28dd5240c9ede81c5aa19b865b7d4d8a11c&" alt="Isabelle Moura"/> 
 </div>
 
 <hr/>
 
 <div style=display: flex>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isabelle-Moura&theme=aura"/>
-  <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=66aab9cd&is=66a9684d&hm=51dfb8cebe7b2a30aaf96f1e090aa212fab1369b14c0777ae6607ad75119ffe5&"/>  
+  <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=66bd2ecd&is=66bbdd4d&hm=82ad9e05a8e470c60e9a9f1047c49fbae73f3215f66fdf132106f069a852cf2b&"/>  
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isabelle-Moura&theme=aura"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isabelle-Moura&theme=aura"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
