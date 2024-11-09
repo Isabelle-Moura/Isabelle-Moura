@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F17EA1&width=500&lines=Hello,+World!+I'm+Isa+Moura;Developer+|+Coder+|+Tech+Enthusiast" alt="Typing SVG" />
   </p>
   
-####  _Hello there! Welcome to my little corner of the internet. I’m passionate about coding, lifelong learning, and sharing knowledge. I love building solutions that make a difference, from web development to complex data structures. 
-Grab a cup of coffee ☕ and let’s get to it!_
+####  _Hello there! Welcome to my little corner of the internet. I’m passionate about coding, lifelong learning, and sharing knowledge. I love building solutions that make a difference, from web development to complex data structures._
+_Grab a cup of coffee ☕ and let’s get to it!_
 </div>
 
 ---
