@@ -221,7 +221,8 @@
   - 🎶 Listening to music;
   - 🏃‍♀️ Love to do my daily little marathons;
   - 👩‍🍳 Cook, specially cakes. Am I a masterchef? Not even close, but i try;
-  - 🧩 Love making logic exercises to enhance my code ability at CodeWars. You can check it out here: https://www.codewars.com/users/Isabelle-Moura;
+  - 🧩 Love making logic exercises to enhance my code ability at CodeWars.
+  You can check it out here: https://www.codewars.com/users/Isabelle-Moura;
   - 🎲 Favorite games? Spider and Sudoku (Don't judge me, okay? It's perfectly normal);
 
 - Languages:
