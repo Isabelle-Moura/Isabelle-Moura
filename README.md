@@ -221,7 +221,8 @@
   - 🎶 Listening to music;
   - 🏃‍♀️ Love to do my daily little marathons;
   - 👩‍🍳 Cook, specially cakes. Am I a masterchef? Not even close, but i try;
-  - 🧩 Favorite games? Spyders and Sudoku;
+  - 🧩 Love making logic exercises to enhance my code ability at CodeWars. You can check it out here: https://www.codewars.com/users/Isabelle-Moura;
+  - 🎲 Favorite games? Spider and Sudoku (Don't judge me, okay? It's perfectly normal);
 
 - Languages:
   - 🇬🇧 English: ❤️❤️❤️;
@@ -238,5 +239,9 @@
 - Daily Fuel: ☕ Coffee + cookies (trust me, it’s a game-changer!);
 ```
 
-### Thanks for stopping by my profile! 😊 Feel free to reach out, connect, or share your favorite coffee tips with me! 
+<div align="center">  
+  
+   _Thanks for stopping by my profile! 😊 Feel free to reach out, connect, or share your favorite coffee tips with me!_
+</div>
 
+---
