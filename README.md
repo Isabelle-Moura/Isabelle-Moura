@@ -231,7 +231,8 @@
   - 🇫🇷 French: ❤️🤍🤍;
 
 - Fav Band: 🥁 Queen! (Top Songs: Hammer to Fall, Love of My Life, Bohemian Rhapsody);
-- Fav Bible Verse: 🛐 In Romans 8:18 Paul says: _“For I consider that the sufferings of this present time are not worth comparing with the glory that is going to be revealed to us.”_;
+- Fav Bible Verse: 🛐 In Romans 8:18 Paul says: “For I consider that the sufferings of this present time are not worth
+  comparing with the glory that is going to be revealed to us.”;
 
 - Life Mottos:
   - "Expect nothing from others, some from yourself, and everything from God.";
