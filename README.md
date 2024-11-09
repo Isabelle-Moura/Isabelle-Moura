@@ -200,6 +200,11 @@
         <br>Linkedin
       </a>
     </td>
+    <td>
+      <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=Isabelle-Moura&label=Profile%20Views&icon=5&pretty=true" />
+      </a>
+    </td>
   </tr>
 </table>
 
