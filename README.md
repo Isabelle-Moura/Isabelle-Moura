@@ -1,9 +1,9 @@
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&lines=Hello,+World!+I'm+Isa+Moura;Developer+|+Coder+|+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F17EA1&width=500&lines=Hello,+World!+I'm+Isa+Moura;Developer+|+Coder+|+Tech+Enthusiast" alt="Typing SVG" />
   </p>
   
-  _Hello there! Welcome to my little corner of the internet. I’m passionate about coding, lifelong learning, and sharing knowledge. I love building solutions that make a difference, from web development to complex data structures. Grab a cup of coffee ☕ and let’s connect!_
+####  _Hello there! Welcome to my little corner of the internet. I’m passionate about coding, lifelong learning, and sharing knowledge. I love building solutions that make a difference, from web development to complex data structures. Grab a cup of coffee ☕ and let’s get to it!_
 </div>
 
 ---
@@ -11,7 +11,15 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=6730ba3e&is=672f68be&hm=2d43fc46f1f9e6079d40c3ed162b51495dc2b5ec899b11c28fbf96d998d57c9b&"/> 
 </div>
-<hr/>
+
+---
+
+<div align="center">  
+  
+### ✨ *"My strength and victory have a name, and it is Jesus."* ✨
+</div>
+
+---
 
 <div style=display: flex>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isabelle-Moura&theme=aura"/>
@@ -241,9 +249,8 @@
 - Daily Fuel: ☕ Coffee + cookies (trust me, it’s a game-changer!);
 ```
 
-<div align="center">  
-  
-   _Thanks for stopping by my profile! 😊 Feel free to reach out, connect, or share your favorite coffee tips with me!_
-</div>
-
 ---
+<div align="center">
+  
+  #### _Thanks for stopping by my profile! 😊 Feel free to reach out, connect, or share your favorite coffee tips with me!_
+</div>
