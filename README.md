@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F17EA1&width=670&lines=Hello,+World!+🗺+|+I'm+Isa+Moura;Full-Stack-Developer+|+Coder+|+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F17EA1&width=670&lines=Hello,+World!+🗺+|+I'm+Isabelle+Moura;Full-Stack-Developer+|+Coder+|+Tech+Enthusiast" alt="Typing SVG" />
   </p>
   
 ####  _Hello there! Welcome to my little corner of the internet. I’m passionate about coding, lifelong learning, and sharing knowledge. I love building solutions that make a difference, from web development to complex data structures._
