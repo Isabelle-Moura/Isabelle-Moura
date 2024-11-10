@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F17EA1&width=670&lines=Hello,+World!+🗺+|+I'm+Isabelle+Moura;Full-Stack-Developer+|+Coder+|+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F17EA1&width=670&lines=Hello,+World!+🗺+🐱‍🐉+|+I'm+Isabelle+Moura;Full-Stack-Developer+|+Coder+|+Tech+Enthusiast" alt="Typing SVG" />
   </p>
   
 ####  _Hello there! Welcome to my little corner of the internet. I’m passionate about coding, lifelong learning, and sharing knowledge. I love building solutions that make a difference, from web development to complex data structures._
@@ -32,27 +32,27 @@
 
 <hr/>
 
-## **👉What I'm Learning Right Now:**
+## **🤩 What I'm Learning Right Now:**
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="NestJS" />
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
       <br>C
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="TypeORM" />
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" />
       <br>Flask
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="SQL" />
+      <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux.js" />
       <br>Redux.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="Sass" />
       <br>Sass
     </td>
   </tr>
@@ -146,23 +146,23 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" />
       <br>VSCode
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="Prisma" />
+      <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="NPM" />
       <br>NPM
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=yarn" width="40" height="40" alt="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=yarn" width="40" height="40" alt="Yarn" />
       <br>Yarn
     </td>
   </tr>
@@ -170,7 +170,7 @@
 
 <hr/>
 
-## **👉 Here's Where You Can Find Me:**
+## **🔍 Here's Where You Can Find Me:**
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -221,10 +221,9 @@
 
 ## **🌌🐱‍👤 Fun Facts About Me:**
 ```yaml
-- Nationality: 🇧🇷 Brazilian (Born and raised in Rio!);
-- Priority: 💕 God and family first!;
-- Secret Talent: 🖍 Drawing and rotating pens (I know, cool right?);
-
+- Nationality: 🇧🇷 Brazilian (Born and raised in Rio!)
+- Priority: 💕 God and family first!
+- Secret Talent: 🖍 Drawing and rotating pens (I know, cool right?)
 - Hobbies:
   - 📚 Reading books;
   - 🎶 Listening to music;
@@ -233,21 +232,17 @@
   - 🧩 Love making logic exercises to enhance my code ability at CodeWars.
         You can check it out my progress here: https://www.codewars.com/users/Isabelle-Moura;
   - 🎲 Favorite games? Spider and Sudoku (Don't judge me, okay? It's perfectly normal);
-
-- Languages:
-  - 🇬🇧 English: ❤️❤️❤️;
-  - 🇰🇷 Korean: ❤️🤍🤍;
-  - 🇫🇷 French: ❤️🤍🤍;
-
-- Fav Band: 🥁 Queen! (Top Songs: Hammer to Fall, Love of My Life, Bohemian Rhapsody);
+- Languages (and my level on them):
+  - 🇬🇧 English: ❤️❤️❤️
+  - 🇰🇷 Korean: ❤️🤍🤍
+  - 🇫🇷 French: ❤️🤍🤍
+- Fav Band: 🥁 Queen! (Top Songs: Hammer to Fall, Love of My Life, You're My Best Friend and Bohemian Rhapsody)
 - Fav Bible Verse: 🛐 In Romans 8:18 Paul says: “For I consider that the sufferings of this present time are not worth
-  comparing with the glory that is going to be revealed to us.”;
-
+  comparing with the glory that is going to be revealed to us.”
 - Life Mottos:
-  - "Expect nothing from others, some from yourself, and everything from God.";
-  - "Be yourself; everyone else is already taken.";
-
-- Daily Fuel: ☕ Coffee + cookies (trust me, it’s a game-changer!);
+  - "Expect nothing from others, some from yourself, and everything from God."
+  - "Be yourself; everyone else is already taken."
+- Daily Fuel: ☕ Coffee + cookies (trust me, it’s a game-changer!)
 ```
 
 ---
