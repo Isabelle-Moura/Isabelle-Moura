@@ -23,15 +23,16 @@
 
 ---
 
-<div style=display: flex>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isabelle-Moura&theme=aura"/>
-   <div style="height: 180px; display: flex; align-items: center; margin: 0 10px;">
-    <img src="images/girl-typing.gif" alt="Girl Typing" style="height: 180px;" />
-  </div>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isabelle-Moura&theme=aura"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isabelle-Moura&theme=aura"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isabelle-Moura&theme=aura" />
+  
+  <img height="180" src="images/girl-typing.gif" alt="Girl Typing" />
+  
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isabelle-Moura&theme=aura" />
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isabelle-Moura&theme=aura" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura" />
 </div>
+
 
 <hr/>
 
