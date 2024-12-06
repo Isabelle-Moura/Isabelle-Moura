@@ -8,9 +8,10 @@
 </div>
 
 ---
+<div align="center">  
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/982051013454360579/1178875636450873395/Design_sem_nome__5_-removebg-preview.png?ex=6730ba3e&is=672f68be&hm=2d43fc46f1f9e6079d40c3ed162b51495dc2b5ec899b11c28fbf96d998d57c9b&"/> 
+![<IsaMouraDev/>](images/extends_isa_moura.png)
+
 </div>
 
 ---
@@ -24,7 +25,9 @@
 
 <div style=display: flex>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isabelle-Moura&theme=aura"/>
-  <img height="180em" src="https://cdn.discordapp.com/attachments/982051013454360579/1170851361697562786/tenor.gif?ex=67308a0d&is=672f388d&hm=5214158aeea5443dfef5a128d41b451448a1bbe7d659093334f8dc14e923403c&"/>  
+   <div style="height: 180px; display: flex; align-items: center; margin: 0 10px;">
+    <img src="images/girl-typing.gif" alt="Girl Typing" style="height: 180px;" />
+  </div>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isabelle-Moura&theme=aura"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isabelle-Moura&theme=aura"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelle-Moura&theme=aura"/>  
