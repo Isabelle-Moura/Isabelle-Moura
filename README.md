@@ -18,7 +18,7 @@
 
 <div align="center">  
   
-### ✨ *"My strength and victory have a name, and it is Jesus."* ✨
+## ✨ *"My strength and victory have a name, and it is Jesus."* ✨
 </div>
 
 ---
